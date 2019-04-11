@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+---
+layout: project
+project: AgroBot
+title: AgroBot
+image: /assets/images/agrobotofficialcircle.JPG
+permalink: /agrobot/
 
-You can use the [editor on GitHub](https://github.com/UBC-AgroBot/ubcagrobot.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+headline: Future-proof agriculture
+description: We are a diverse team of students from across different engineering disciplines. With a shared passion for innovation and technology, we hope to contribute to the future of agriculture, in transitioning from human labour to full automation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+box: >
+  As the world population grows, climate change continues and reliable human labour becomes increasingly expensive, we must find more efficient and sustainable ways to grow food and sustain ourselves. The UBC AgroBot team will be building a fully autonomous robot capable of analyzing its environment and performing targeted weeding, fertilizing and soil analysis though the use of advanced robotics, image recognition and machine learning. 
+---
 
-### Markdown
+# The Challenge
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## agBOT @ Purdue University
+This project will be competing in the agBot challenge at Purdue University, Indiana. This competition attracts many teams from companies and universities across North America. The objectives of the competition are to create an autonomous machine capable of navigating a corn field to identify weeds and analyze crop health. Upon identification of the corn plant, the machine should determine if the plant is healthy or in distress which requires fertilizer to be applied by the machine. Upon identification of a weed, the machine should eradicate the weed chemically and/or mechanically. The competition will be judged by reputable members of the agricultural technology industry, such as The Climate Corporation (Monsanto), and Blue River Technology.
 
-```markdown
-Syntax highlighted code block
+You can find more information at: https://ag.purdue.edu/agBOT/ 
 
-# Header 1
-## Header 2
-### Header 3
+## Getting Involved
+We are looking for highly self motivated individuals who are ready to take on this challenging yet rewarding project. This new team provides a start-up like environment. The multidisciplinary projects give you the hands-on experience to tackle any engineering problem. Members of the team will take part in highly collaborative projects in two major categories, robotics and automation. Members will get the opportunity to go through the engineering design process including studying and researching the problem, engaging stakeholders, developing potential solutions, prototyping, sourcing materials and constructing a working product. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+NEW Summer 2019 Recruitment
+---
+This summer we will attempt to complete a simple, functioning protype of the AgroBot. This will entail 10-15 hours of work every week. Most will be accomplished on the weekends. <br>
 
-**Bold** and _Italic_ and `Code` text
+Previous technical experience is <b> not </b> required but will be considered an asset. 
 
-[Link](url) and ![Image](src)
-```
+<h3> Engineering Positions Avaliable: </h3> 
+<dl>
+  
+<dt><b> Wireless Communication System Team Member </b>:</dt> 
+<dd> Designing and building a transportable transceiver system allowing medium/long distance communication with the AgroBot. </dd>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<dt><b> Navigation System Team Member </b>:</dt>
+<dd>Developing an onboard navigation system through use of GPS, IMU, and image recognition technologies. </dd>
 
-### Jekyll Themes
+<dt><b> Image Recognition System Team Member </b>:</dt>
+<dd>Developing a high accuracy image recognition system using machine learning for weeds and crop detection. </dd>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UBC-AgroBot/ubcagrobot.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<dt><b> Chassis Design Team Member </b>:</dt>
+<dd>Designing and constructing the AgroBot chassis and powertrain system.</dd>
 
-### Support or Contact
+<dt><b> Exterminating Mechanism Team Member </b>:</dt>
+<dd>Designing and building the AgroBot's precision exterminating mechanisms (pesticide and mechanical).</dd> 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<dt><b> Pesticide Storage and Transport Team Members </b>:</dt>
+<dd>Designing and building the AgroBot's pesticide (and fertilizer) storage, pumping and spraying mechanism. </dd> 
+
+<dt><b> Robotics Team Coordinator </b>:</dt>
+<dd>Take a leadership role in assisting in design and development, coordinating meetings (internal and external), creating deadlines and ensuring sub-project integration. 
+</dl>
+ 
+
+<ul class="actions">
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_5BDOYaSDWVUm1kV" class="button medium wide">APPLY HERE</a></li>
+</ul>
+<br>
+Deadline to apply: 11:59 pm, April 14th <br>
+If you have any questions regarding the project or recruitment, please email: ubcagrobot@gmail.com
+
+---
