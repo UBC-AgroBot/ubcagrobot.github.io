@@ -49,10 +49,10 @@ Previous technical experience is <b> not </b> required but will be considered an
  
 
 <ul class="actions">
-	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_5BDOYaSDWVUm1kV" class="button medium wide">APPLY HERE</a></li>
+	<a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_5BDOYaSDWVUm1kV" class="button medium wide">APPLY HERE</a>
 </ul>
 <br>
 Deadline to apply: 11:59 pm, April 14th <br>
 If you have any questions regarding the project or recruitment, please email: ubcagrobot@gmail.com
 
----
+
