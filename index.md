@@ -2,7 +2,7 @@
 As the world population grows, climate change continues and reliable human labour becomes increasingly expensive, we must find more efficient and sustainable ways to grow food and sustain ourselves. The UBC AgroBot team will be building a fully autonomous robot capable of analyzing its environment and performing targeted weeding, fertilizing and soil analysis though the use of advanced robotics, image recognition and machine learning. 
 
 
-# US:
+# Us:
 We are a diverse team of students from across different engineering disciplines. With a shared passion for innovation and technology, we hope to contribute to the future of agriculture, in transitioning from human labour to full automation.
 
 # The Challenge
@@ -47,7 +47,7 @@ Previous technical experience is <b> not </b> required but will be considered an
 <dd>Take a leadership role in assisting in design and development, coordinating meetings (internal and external), creating deadlines and ensuring sub-project integration. 
  
 
-<Deadline to apply: 11:59 pm, April 14th <br>
+<br> Deadline to apply: 11:59 pm, April 14th <br>
 If you have any questions regarding the project or recruitment, please email: ubcagrobot@gmail.com
 
 
