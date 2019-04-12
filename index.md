@@ -1,3 +1,4 @@
+---
 As the world population grows, climate change continues and reliable human labour becomes increasingly expensive, we must find more efficient and sustainable ways to grow food and sustain ourselves. The UBC AgroBot team will be building a fully autonomous robot capable of analyzing its environment and performing targeted weeding, fertilizing and soil analysis though the use of advanced robotics, image recognition and machine learning. 
 ---
 
