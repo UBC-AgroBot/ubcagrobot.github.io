@@ -1,15 +1,37 @@
----
-  As the world population grows, climate change continues and reliable human labour becomes increasingly expensive, we must find more efficient and sustainable ways to grow food and sustain ourselves. The UBC AgroBot team will be building a fully autonomous robot capable of analyzing its environment and performing targeted weeding, fertilizing and soil analysis though the use of advanced robotics, image recognition and machine learning. 
----
+## Welcome to GitHub Pages
 
-# The Challenge
+You can use the [editor on GitHub](https://github.com/UBC-AgroBot/ubcagrobot.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-## agBOT @ Purdue University
-This project will be competing in the agBot challenge at Purdue University, Indiana. This competition attracts many teams from companies and universities across North America. The objectives of the competition are to create an autonomous machine capable of navigating a corn field to identify weeds and analyze crop health. Upon identification of the corn plant, the machine should determine if the plant is healthy or in distress which requires fertilizer to be applied by the machine. Upon identification of a weed, the machine should eradicate the weed chemically and/or mechanically. The competition will be judged by reputable members of the agricultural technology industry, such as The Climate Corporation (Monsanto), and Blue River Technology.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-You can find more information at: https://ag.purdue.edu/agBOT/ 
+### Markdown
 
-## Getting Involved
-We are looking for highly self motivated individuals who are ready to take on this challenging yet rewarding project. This new team provides a start-up like environment. The multidisciplinary projects give you the hands-on experience to tackle any engineering problem. Members of the team will take part in highly collaborative projects in two major categories, robotics and automation. Members will get the opportunity to go through the engineering design process including studying and researching the problem, engaging stakeholders, developing potential solutions, prototyping, sourcing materials and constructing a working product. 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+```markdown
+Syntax highlighted code block
 
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UBC-AgroBot/ubcagrobot.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
